@@ -5,6 +5,7 @@ Oran , Algeria
 Tizi-ouzou , Algeria
 Annaba , Algeria
 Boumerdes ,Algeria
+Constantine,Algeria
 Tehran, Iran
 Jalandhar, India
 Gatineau, Canada
