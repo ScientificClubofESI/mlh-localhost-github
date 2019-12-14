@@ -24,6 +24,7 @@ Goiania, Brazil
 Vienna, Austria
 Melbourne, Australia
 Osaka, Japan
+new Delhi,India
 Calgary, Canada
 Sydney, Australia
 Vancouver, Canada
@@ -100,6 +101,7 @@ Limassol, Cyprus
 Kolkata, India
 Kitale , Kenya
 Prosotsani, Greece
+sétif,Algeria
 Tarija, Bolivia
 Viacha, Bolivia
 Pando, Bolivia
