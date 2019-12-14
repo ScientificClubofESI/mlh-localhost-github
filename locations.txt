@@ -67,6 +67,7 @@ Anand,India
 Patuakhali, Bangladesh
 Ajax, Canada
 Eldoret , Kenya
+Madrid , Spain
 Toronto, Canada
 Burlington, Canada
 Fontainebleau, France
