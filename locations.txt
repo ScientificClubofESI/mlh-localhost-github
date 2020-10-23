@@ -5,11 +5,15 @@ Oran , Algeria
 Tizi-ouzou , Algeria
 Annaba , Algeria
 Boumerdes ,Algeria
+Msila, Algeria
 Tehran, Iran
 Jalandhar, India
 Gatineau, Canada
 Lincoln, Pennsylvania
 Changchun, China
+Tunis, Tunisia
+Bozeman, USA
+Tlemcen, Algeria
 San Ramon, California
 Phoenix, Arizona
 Mississauga, Canada
